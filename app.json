@@ -1,24 +1,7 @@
 {
   "pages": [
-    "pages/welcome/welcome",
-    "pages/login/login"
+    "pages/welcome/welcome"
   ],
-  "subpackages": [
-    {
-      "root": "loginPage",
-      "pages": [
-        "pages/register/register"
-      ]
-    }
-  ],
-  "preloadRule": {
-    "pages/login/login": {
-      "network": "all",
-      "packages": [
-        "loginPage"
-      ]
-    }
-  },
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
