@@ -1,0 +1,4 @@
+<view class="cell-container">
+  <view class="cell-label">标签</view>
+  <view class="cell-content">内容</view>
+</view>

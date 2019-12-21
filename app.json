@@ -19,6 +19,10 @@
       ]
     }
   },
+  "usingComponents": {
+    "sui-tab": "@op-wechat/components/tabs/tabs",
+    "sui-cell": "@op-wechat/components/cell/cell"
+  },
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
