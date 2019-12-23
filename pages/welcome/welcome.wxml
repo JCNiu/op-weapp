@@ -1,2 +1,1 @@
-<!-- <sui-tab bindselectTab="console"></sui-tab> -->
-<sui-cell></sui-cell>
+<van-icon name="chat" dot />
