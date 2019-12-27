@@ -1,3 +1,5 @@
+let urlTool = require('./url-tool');
+
 /**
  * 微信工具类
  */

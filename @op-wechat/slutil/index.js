@@ -11,6 +11,8 @@ var string = require('./string');
 var validate = require('./validate');
 var wxTool = require('./wx-tool');
 var tool = require('./tool');
+var http = require('./http');
+var urlTool = require('./url-tool');
 
 
 module.exports = { 
@@ -24,4 +26,6 @@ module.exports = {
   validate, 
   ...wxTool,
   ...tool,
+  ...http,
+  ...urlTool,
 };
