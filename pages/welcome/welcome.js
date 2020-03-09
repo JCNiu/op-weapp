@@ -1,7 +1,7 @@
 import { Page, suiLocalConfig, slutil, Dialog } from '../../common/index'
 
 Page({
-  date: {},
+  data: {},
   onSlLoad() {
     console.log("page=====>Load");
     console.log("suiLocalConfig=====>",suiLocalConfig);
